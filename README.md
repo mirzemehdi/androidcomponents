@@ -6,7 +6,7 @@
 
 
 ## Used Libraries and Classes
-**Android Components** - Room,LiveData,ViewModel **MVVM** 
+**Android Components** - Room,LiveData,ViewModel **MVVM** structure  
 **RecylerView** - for showing profiles in the list  
 **CardView** - in list row  
 
